@@ -33,11 +33,11 @@
 
 ## ⚙️ 시스템 구성도
 
-[User Webcam Input]
+[User Webcam Input]  
 ↓
-[OpenCV + MediaPipe] 얼굴/눈 추출
+[OpenCV + MediaPipe] 얼굴/눈 추출  
 ↓
-[AI Model (CNN + SVM)] 상태 분류 (집중 / 졸음 / 딴짓)
+[AI Model (CNN + SVM)] 상태 분류 (집중 / 졸음 / 딴짓)  
 ↓
 [Timer Controller] → [UI Feedback / 알림] → [데이터 저장]
 
