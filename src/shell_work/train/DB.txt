@@ -1,0 +1,2 @@
+TYPE:INFO | Name:슝슝이 | Info:010-1234-5678
+TYPE:WORK | Name:슝슝이 | Date:2025-11-20 | Content:밥 먹기
